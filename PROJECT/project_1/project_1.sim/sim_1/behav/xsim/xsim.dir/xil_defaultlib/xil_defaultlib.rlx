@@ -1,0 +1,10 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/pamuk/Desktop/CS docs/CS-223/PROJECT/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/pamuk/Desktop/CS docs/CS-223/PROJECT/project_1/project_1.srcs/sim_1/new/testBench_rx_part2.sv,1714869592,systemVerilog,,,,testBench_rx_part2,,uvm,,,,,,
+C:/Users/pamuk/Desktop/CS docs/CS-223/PROJECT/project_1/project_1.srcs/sim_1/new/testbench.sv,1714960332,systemVerilog,,,,testbench,,uvm,,,,,,
+C:/Users/pamuk/Desktop/CS docs/CS-223/PROJECT/project_1/project_1.srcs/sources_1/new/Uart_rx.sv,1714959015,systemVerilog,,C:/Users/pamuk/Desktop/CS docs/CS-223/PROJECT/project_1/project_1.srcs/sources_1/new/Uart_tx.sv,,Uart_rx,,uvm,,,,,,
+C:/Users/pamuk/Desktop/CS docs/CS-223/PROJECT/project_1/project_1.srcs/sources_1/new/Uart_tx.sv,1714961040,systemVerilog,,C:/Users/pamuk/Desktop/CS docs/CS-223/PROJECT/project_1/project_1.srcs/sources_1/new/buttonDebouncer.sv,,Uart_tx,,uvm,,,,,,
+C:/Users/pamuk/Desktop/CS docs/CS-223/PROJECT/project_1/project_1.srcs/sources_1/new/buttonDebouncer.sv,1714919431,systemVerilog,,C:/Users/pamuk/Desktop/CS docs/CS-223/PROJECT/project_1/project_1.srcs/sim_1/new/testbench.sv,,buttonDebouncer,,uvm,,,,,,

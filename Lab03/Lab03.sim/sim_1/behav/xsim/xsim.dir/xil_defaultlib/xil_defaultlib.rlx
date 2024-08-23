@@ -1,0 +1,16 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/pamuk/Desktop/CS docs/CS-223/Lab03/Lab03.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/pamuk/Desktop/CS docs/CS-223/Lab03/Lab03.srcs/sim_1/new/bit_shifter_testBench.v,1710954915,verilog,,,,bit_shifter_testBench,,,,,,,,
+C:/Users/pamuk/Desktop/CS docs/CS-223/Lab03/Lab03.srcs/sim_1/new/decoder2to4_testbench.v,1710942667,verilog,,,,decoder2to4_testbench,,,,,,,,
+C:/Users/pamuk/Desktop/CS docs/CS-223/Lab03/Lab03.srcs/sim_1/new/function_g_testBench.v,1710944900,verilog,,,,function_g_testBench,,,,,,,,
+C:/Users/pamuk/Desktop/CS docs/CS-223/Lab03/Lab03.srcs/sim_1/new/logicFunction_testBench.sv,1711023731,systemVerilog,,,,logicFunction_testBench,,uvm,,,,,,
+C:/Users/pamuk/Desktop/CS docs/CS-223/Lab03/Lab03.srcs/sim_1/new/mux8to1_testbench.v,1710949644,verilog,,,,mux8to1_testbench,,uvm,,,,,,
+C:/Users/pamuk/Desktop/CS docs/CS-223/Lab03/Lab03.srcs/sources_1/new/bit_shifter.v,1710954322,verilog,,C:/Users/pamuk/Desktop/CS docs/CS-223/Lab03/Lab03.srcs/sim_1/new/bit_shifter_testBench.v,,bit_shifter,,,,,,,,
+C:/Users/pamuk/Desktop/CS docs/CS-223/Lab03/Lab03.srcs/sources_1/new/decoder2to4.v,1710942667,verilog,,C:/Users/pamuk/Desktop/CS docs/CS-223/Lab03/Lab03.srcs/sim_1/new/decoder2to4_testbench.v,,decoder2to4,,uvm,,,,,,
+C:/Users/pamuk/Desktop/CS docs/CS-223/Lab03/Lab03.srcs/sources_1/new/function_g.v,1710945811,verilog,,C:/Users/pamuk/Desktop/CS docs/CS-223/Lab03/Lab03.srcs/sim_1/new/function_g_testBench.v,,function_g,,,,,,,,
+C:/Users/pamuk/Desktop/CS docs/CS-223/Lab03/Lab03.srcs/sources_1/new/logicFunction.sv,1711026561,systemVerilog,,C:/Users/pamuk/Desktop/CS docs/CS-223/Lab03/Lab03.srcs/sources_1/new/mux4to1.sv,,logicFunction,,uvm,,,,,,
+C:/Users/pamuk/Desktop/CS docs/CS-223/Lab03/Lab03.srcs/sources_1/new/mux4to1.sv,1710948646,systemVerilog,,C:/Users/pamuk/Desktop/CS docs/CS-223/Lab03/Lab03.srcs/sources_1/new/mux8to1.sv,,mux4to1,,uvm,,,,,,
+C:/Users/pamuk/Desktop/CS docs/CS-223/Lab03/Lab03.srcs/sources_1/new/mux8to1.sv,1711016331,systemVerilog,,C:/Users/pamuk/Desktop/CS docs/CS-223/Lab03/Lab03.srcs/sim_1/new/logicFunction_testBench.sv,,mux8to1,,uvm,,,,,,

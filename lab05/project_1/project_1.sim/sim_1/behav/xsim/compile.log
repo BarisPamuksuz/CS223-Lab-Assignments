@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/pamuk/Desktop/CS docs/CS-223/lab05/project_1/project_1.srcs/sources_1/new/BCDcounter7SegmentDisplay.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BCDcounter7SegmentDisplay
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/pamuk/Desktop/CS docs/CS-223/Lab04/project_1/project_1.srcs/sources_1/new/BCDto7Segment.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BCDto7Segment
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/pamuk/Desktop/CS docs/CS-223/Lab04/project_1/project_1.srcs/sources_1/new/MultiDigitDisplay.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MultiDigitDisplay
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/pamuk/Desktop/CS docs/CS-223/Lab04/project_1/project_1.srcs/sources_1/new/clkDivider.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clkDivider
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/pamuk/Desktop/CS docs/CS-223/lab05/project_1/project_1.srcs/sim_1/new/multidigitCounterTestbench.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module multidigitCounterTestbench

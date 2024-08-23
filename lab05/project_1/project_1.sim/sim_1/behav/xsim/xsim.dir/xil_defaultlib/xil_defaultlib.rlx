@@ -1,0 +1,12 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/pamuk/Desktop/CS docs/CS-223/Lab04/project_1/project_1.srcs/sources_1/new/BCDto7Segment.sv,1714508387,systemVerilog,,C:/Users/pamuk/Desktop/CS docs/CS-223/Lab04/project_1/project_1.srcs/sources_1/new/MultiDigitDisplay.sv,,BCDto7Segment,,uvm,,,,,,
+C:/Users/pamuk/Desktop/CS docs/CS-223/Lab04/project_1/project_1.srcs/sources_1/new/MultiDigitDisplay.sv,1714647965,systemVerilog,,C:/Users/pamuk/Desktop/CS docs/CS-223/Lab04/project_1/project_1.srcs/sources_1/new/clkDivider.sv,,MultiDigitDisplay,,uvm,,,,,,
+C:/Users/pamuk/Desktop/CS docs/CS-223/Lab04/project_1/project_1.srcs/sources_1/new/clkDivider.sv,1714507812,systemVerilog,,C:/Users/pamuk/Desktop/CS docs/CS-223/lab05/project_1/project_1.srcs/sim_1/new/multidigitCounterTestbench.sv,,clkDivider,,uvm,,,,,,
+C:/Users/pamuk/Desktop/CS docs/CS-223/lab05/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/pamuk/Desktop/CS docs/CS-223/lab05/project_1/project_1.srcs/sim_1/new/multidigitCounterTestbench.sv,1714647639,systemVerilog,,,,multidigitCounterTestbench,,uvm,,,,,,
+C:/Users/pamuk/Desktop/CS docs/CS-223/lab05/project_1/project_1.srcs/sim_1/new/testBench_trafficController.sv,1714324527,systemVerilog,,,,testBench_trafficController,,uvm,,,,,,
+C:/Users/pamuk/Desktop/CS docs/CS-223/lab05/project_1/project_1.srcs/sources_1/new/BCDcounter7SegmentDisplay.sv,1714647886,systemVerilog,,C:/Users/pamuk/Desktop/CS docs/CS-223/Lab04/project_1/project_1.srcs/sources_1/new/BCDto7Segment.sv,,BCDcounter7SegmentDisplay,,uvm,,,,,,
+C:/Users/pamuk/Desktop/CS docs/CS-223/lab05/project_1/project_1.srcs/sources_1/new/trafficController.v,1714324575,verilog,,,,trafficController,,uvm,,,,,,

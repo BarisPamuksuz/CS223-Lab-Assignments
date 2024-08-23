@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Thu Apr 18 13:59:47 2024
+# Process ID: 19884
+# Current directory: C:/Users/pamuk/Desktop/CS docs/CS-223/Lab04/project_1/project_1.runs/impl_1
+# Command line: vivado.exe -log multifunctionRegister.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source multifunctionRegister.tcl -notrace
+# Log file: C:/Users/pamuk/Desktop/CS docs/CS-223/Lab04/project_1/project_1.runs/impl_1/multifunctionRegister.vdi
+# Journal file: C:/Users/pamuk/Desktop/CS docs/CS-223/Lab04/project_1/project_1.runs/impl_1\vivado.jou
+# Running On: 1Baris, OS: Windows, CPU Frequency: 2304 MHz, CPU Physical cores: 8, Host memory: 16911 MB
+#-----------------------------------------------------------
+source multifunctionRegister.tcl -notrace
