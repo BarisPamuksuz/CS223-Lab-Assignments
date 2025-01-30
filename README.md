@@ -1,2 +1,2 @@
-**Bilkent University 2023-2024 Spring CS223 Digital Design Lab Assignments.**
+**Bilkent University 2023-2024 Spring CS223 Digital Design Lab Assignments.** <br>
 **Project -> UART**
